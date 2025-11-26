@@ -1,6 +1,6 @@
 # Differential Gaussian Rasterization
 
-This is the implementation of the rasterization engine for "3D Gaussian Splatting as Markov Chain Monte Carlo". If you make use of it in your research, please cite their work.
+This is the implementation of the rasterization engine used in "3D Gaussian Splatting as Markov Chain Monte Carlo". If you make use of it in your research, please cite their work.
 
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
